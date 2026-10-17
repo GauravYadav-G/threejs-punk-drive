@@ -2,7 +2,8 @@
 
 A photorealistic, high-performance 3D open-world driving simulator built with **Three.js**, **WebGPU/WebGL**, and **Rapier Physics**, infused with an authentic **GTA VI: Vice City 1986** neon aesthetic.
 
-![GTA VI Vice City Drive](public/textures/cover.webp)
+🚀 **Live Production Deployment**: [https://threejs-punk-drive.vercel.app](https://threejs-punk-drive.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/GauravYadav-G/threejs-punk-drive](https://github.com/GauravYadav-G/threejs-punk-drive)
 
 ---
 
